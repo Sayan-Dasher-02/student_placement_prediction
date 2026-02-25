@@ -8,7 +8,7 @@ Interactive ML dashboard to predict student placements using campus recruitment 
 - Multiple ML models (Logistic Regression, Random Forest, XGBoost)
 - Model comparison & performance metrics
 - Feature importance analysis
-- Live predictions & data visualizations[file:16][file:17]
+- Live predictions & data visualizations
 
 ## 📁 Files
 | File | Description |
@@ -46,7 +46,7 @@ cd student_placement_prediction
 Streamlit run main.py --port 6001
 ```
 
-2. **Open Browser:** http://localhost:8501
+2. **Open Browser:** http://localhost:6001
 
 3. **Explore Experiments (Optional):**
 ```bash
